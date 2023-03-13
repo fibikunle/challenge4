@@ -281,12 +281,10 @@ var quizs = [
         correctEl.classList.remove("show");
         correctEl.classList.add("hide");
     }
-  
     if (wrongEl.className = "show") {
         wrongEl.classList.remove("show");
         wrongEl.classList.add("hide");
-        }
-    
+        } 
   }
   //clears high scores
   var clearScores = function () {
