@@ -35,3 +35,5 @@ The following animation demonstrates the application functionality:
 
 [A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
 
+References to a solution leveraged Achigas/CodeQuiz Javascript code quiz.
+
